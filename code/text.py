@@ -4,8 +4,7 @@ class makeText(Scene):
     def construct(self):
         #######Code#######
         #Making text
-        first_line = TextMobject("Manim is fun")
-        second_line = TextMobject("and useful")
+        first_line = TextMobject("mongf23Mj")
         final_line = TextMobject("Hope you like it too!", color=BLUE)
         color_final_line = TextMobject("Hope you like it too!")
 
